@@ -15,7 +15,6 @@ function About(props) {
 
 
 
-
     function RenderPartner({partner}) {
         if (partner) {
             return(
